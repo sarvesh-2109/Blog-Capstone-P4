@@ -27,8 +27,8 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///posts.db'
 db = SQLAlchemy(model_class=Base)
 db.init_app(app)
 
-MY_EMAIL = "udemy.python21@gmail.com"
-PASSWORD = "rxibphfbdniwjnpu"
+MY_EMAIL = # enter_your_email_here
+PASSWORD = # enter_your_email_app_password
 
 
 login_manager = LoginManager()

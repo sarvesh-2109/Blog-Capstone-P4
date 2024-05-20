@@ -2,6 +2,14 @@
 
 Welcome to the Blog Capstone Project! This is a full-featured blog web application built using Flask. The application supports user registration, login, creating, editing, deleting posts, and commenting on posts. It also includes features for user authentication, admin-only access, and email notifications.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Blog-Capstone-P4/assets/113255836/fd53611f-b378-4acb-b6d7-0da3ec5cb128
+
+
+
+
 ## Features
 
 - 📝 **User Authentication**: Register, login, and logout functionalities.
